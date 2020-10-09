@@ -1,4 +1,4 @@
-# created by virtualenv automatically
-bin/*
-lib/*
+bin/
+lib/
+.vscode/
 pyvenv.cfg
